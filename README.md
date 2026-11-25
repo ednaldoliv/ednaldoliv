@@ -1,5 +1,3 @@
-# Ednaldo-Filho
-
 ![Capa do perfil](./assets/banner.png)
 
 ## Sobre mim
