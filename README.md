@@ -45,6 +45,7 @@ Fora da programação, acompanho jogos e mangás — referências que também in
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=FFFFFF)
@@ -60,6 +61,14 @@ Plataforma web voltada à **descoberta e ao compartilhamento de livros e resenha
 [**Explorar repositório**](https://github.com/ednaldoliv/Estante-Aberta)
 
 > Projeto em evolução. Melhorias de segurança e configuração estão sendo revisadas antes de seu uso em produção.
+
+### 🌱 [AgroConecta](https://github.com/viiiniciiiius/agroconecta)
+
+Projeto acadêmico do **IFCE** voltado ao cadastro e à consulta de soluções tecnológicas para o setor agrícola. Participei do desenvolvimento da aplicação, que utiliza uma API backend com Fastify e integração com MongoDB Atlas. O trabalho também resultou em um **artigo científico publicado**.
+
+**Tecnologias:** Node.js · Fastify · MongoDB Atlas · React · JWT
+
+[**Explorar repositório**](https://github.com/viiiniciiiius/agroconecta)
 
 ## Estatísticas do GitHub
 
